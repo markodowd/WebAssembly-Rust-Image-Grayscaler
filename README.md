@@ -2,7 +2,7 @@
 
 Install the node_modules using the following command
 
-```npm install``
+```npm install```
 
 # Run
 
